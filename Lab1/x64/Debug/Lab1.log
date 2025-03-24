@@ -1,0 +1,11 @@
+﻿  DateUtils.cpp
+C:\Users\gvent\OneDrive\Desktop\KPO\Lab1\Lab1\DateUtils.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab1.pch: No such file or directory,
+  Lab1.cpp
+C:\Users\gvent\OneDrive\Desktop\KPO\Lab1\Lab1\Lab1.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab1.pch: No such file or directory,
+  MonthUtils.cpp
+C:\Users\gvent\OneDrive\Desktop\KPO\Lab1\Lab1\MonthUtils.cpp(60,1): error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  ValidDate.cpp
+C:\Users\gvent\OneDrive\Desktop\KPO\Lab1\Lab1\ValidDate.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab1.pch: No such file or directory,
+  YearUtils.cpp
+C:\Users\gvent\OneDrive\Desktop\KPO\Lab1\Lab1\YearUtils.cpp(1,10): error C1083: Не удается открыть файл предкомпилированный заголовок: x64\Debug\Lab1.pch: No such file or directory,
+  Создание кода...
